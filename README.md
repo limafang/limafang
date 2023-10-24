@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 About Me
 
-<!--
-**limafang/limafang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Duyi Pan, Junior at Xidian University, majoring in Artificial Intelligence.
+- 🔍 Focused on Reinforcement Learning and Multi-Agent Systems.
 
-Here are some ideas to get you started:
+### 🌟 Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Contributed to open source projects including mmagic and joyrl for reinforcement learning.
+- 🌐 Member of Datawhale MMSIG community.
+- 🏆 Achieved Top 5 in the Xunfei Star Fire Cup.
+
+### 🎮 Hobbies
+
+- 🎯 Dota 2 enthusiast.
+- 🎶 Practicing blues harmonica.
+
+### 📧 Contact
+
+- 📫 Feel free to reach out: azula_fire@163.com
